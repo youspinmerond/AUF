@@ -9,3 +9,8 @@ don't forget to create .env
 migrate, generate prisma, another.
 
 Soon I'll study "Xata".
+
+TODO
+====
+1. Custom Provider
+2. Use it in another projects
